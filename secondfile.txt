@@ -1,2 +1,3 @@
 Hello GIT
 This is my second file in GIT local repo
+Modify the content of the file.
