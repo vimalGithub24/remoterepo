@@ -1,0 +1,2 @@
+Hello GIT!
+Creating the feature branch and pushed to Github for creating feature1 branch in remote repo!
