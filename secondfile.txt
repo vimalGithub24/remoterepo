@@ -1,0 +1,2 @@
+Hello GIT
+This is my second file in GIT local repo
